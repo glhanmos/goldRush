@@ -3,12 +3,12 @@ Concept for a Gold-Rush themed infinite runner, a project for Isaac Pante's clas
 ![image](screenshot.PNG)
 ## Description
 This project is themed after the famous 19th century Gold Rushes which took place in the US. 
-* Try to collect as many nuggets of gold as you can!
+* Try to collect as many gold nuggets as you can!
 * All while avoiding deadly spikes, and bottomless pits. 
 * You've got a double jump at disposal, time both jumps well !!
 * Or suffer a great loss, and start over.
-## Disclaimer
-* Game developed fpr Phaser 3.
+## Credits
+* Game developed with Phaser 3.
 * All the designs and pixel art were drawn by glhanmos (me).
 * The main part of the code was developed by Emanuele Feronato, borrowed from his amazing tutorial on how to make an infinite runner, which you can find linked below:
 https://bit.ly/2Eg6MPO
